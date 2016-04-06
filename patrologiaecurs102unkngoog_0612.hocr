@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./patrologiaecurs102unkngoog/patrologiaecurs102unkngoog_0612.png"; bbox 0 0 1063 1656; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 53 68 855 927">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 53 68 855 927">
+     <span class='ocr_line' id='line_1_1' title="bbox 53 68 855 927; baseline 0.037 -527"><span class='ocrx_word' id='word_1_1' title='bbox 53 68 855 927; x_wconf 95' lang='lat' dir='ltr'>    </span> <span class='ocrx_word' id='word_1_2' title='bbox 635 400 855 430; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 443 414 679 511">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 443 414 679 511">
+     <span class='ocr_line' id='line_1_2' title="bbox 492 414 635 442; baseline 0.028 -3"><span class='ocrx_word' id='word_1_3' title='bbox 492 414 538 439; x_wconf 64' lang='lat' dir='ltr'>niis</span> <span class='ocrx_word' id='word_1_4' title='bbox 550 415 635 442; x_wconf 66' lang='lat' dir='ltr'>Vflfflffl</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 446 446 678 479; baseline 0.026 -6"><span class='ocrx_word' id='word_1_5' title='bbox 446 446 501 471; x_wconf 64' lang='lat'>⁰028</span> <span class='ocrx_word' id='word_1_6' title='bbox 513 448 555 473; x_wconf 77' lang='grc' dir='ltr'>ΜΠ</span> <span class='ocrx_word' id='word_1_7' title='bbox 565 450 678 479; x_wconf 68' lang='lat' dir='ltr'>cuneum!</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 443 479 679 511; baseline 0.025 -6"><span class='ocrx_word' id='word_1_8' title='bbox 443 479 534 506; x_wconf 63' lang='lat' dir='ltr'>onustus</span> <span class='ocrx_word' id='word_1_9' title='bbox 542 482 583 508; x_wconf 73' lang='grc' dir='ltr'>ΠΕ</span> <span class='ocrx_word' id='word_1_10' title='bbox 593 483 679 511; x_wconf 65' lang='lat' dir='ltr'>HM?</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
